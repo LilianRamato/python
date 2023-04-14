@@ -1,0 +1,7 @@
+print("This is my first python programming")
+print("emobilis")
+print(9+24)
+print("python is the best you all ,like very incredible")
+print(10+10)
+print(" and they once said that all the knowledge comes from above ,but all the strength comes from within")
+print(" believe in yourself everything is possible. the way over is under.")
